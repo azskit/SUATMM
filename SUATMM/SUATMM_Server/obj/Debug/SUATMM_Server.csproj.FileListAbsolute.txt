@@ -1,0 +1,7 @@
+D:\Work\Repository\SUATMM\SUATMM_Server\bin\Debug\SUATMM_Server.exe
+D:\Work\Repository\SUATMM\SUATMM_Server\bin\Debug\SUATMM_Server.pdb
+D:\Work\Repository\SUATMM\SUATMM_Server\obj\Debug\SUATMM_Server.exe
+D:\Work\Repository\SUATMM\SUATMM_Server\obj\Debug\SUATMM_Server.pdb
+D:\Work\Repository\SUATMM\SUATMM_Server\obj\Debug\SUATMM_Server.csprojResolveAssemblyReference.cache
+D:\Work\Repository\SUATMM\SUATMM_Server\bin\Debug\SUATMM_lib.dll
+D:\Work\Repository\SUATMM\SUATMM_Server\bin\Debug\SUATMM_lib.pdb

@@ -1,0 +1,11 @@
+D:\Work\Repository\SUATMM\SUATMM_Demo\bin\Debug\SUATMM_Demo.exe
+D:\Work\Repository\SUATMM\SUATMM_Demo\bin\Debug\SUATMM_Demo.pdb
+D:\Work\Repository\SUATMM\SUATMM_Demo\obj\Debug\SUATMM_Demo.exe
+D:\Work\Repository\SUATMM\SUATMM_Demo\obj\Debug\SUATMM_Demo.pdb
+D:\Work\Repository\SUATMM\SUATMM_Demo\obj\Debug\SUATMM_Demo.csprojResolveAssemblyReference.cache
+D:\Work\Repository\SUATMM\SUATMM_Demo\bin\Debug\SuatmmApi.dll
+D:\Work\Repository\SUATMM\SUATMM_Demo\bin\Debug\SuatmmApi.pdb
+D:\Work\SUATMM\SUATMM_Demo\obj\Debug\SUATMM_Demo.exe
+D:\Work\SUATMM\SUATMM_Demo\obj\Debug\SUATMM_Demo.pdb
+D:\Work\Repos2\SUATMM\SUATMM_Demo\obj\Debug\SUATMM_Demo.exe
+D:\Work\Repos2\SUATMM\SUATMM_Demo\obj\Debug\SUATMM_Demo.pdb

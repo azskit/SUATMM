@@ -1,0 +1,6 @@
+D:\Work\Repository\SUATMM\SUATMM_lib\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Work\Repository\SUATMM\SUATMM_lib\obj\Debug\SuatmmApi.csprojResolveAssemblyReference.cache
+D:\Work\Repository\SUATMM\SUATMM_lib\bin\Debug\SuatmmApi.dll
+D:\Work\Repository\SUATMM\SUATMM_lib\bin\Debug\SuatmmApi.pdb
+D:\Work\Repository\SUATMM\SUATMM_lib\obj\Debug\SuatmmApi.dll
+D:\Work\Repository\SUATMM\SUATMM_lib\obj\Debug\SuatmmApi.pdb
